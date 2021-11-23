@@ -1,0 +1,18 @@
+body{
+	background-color: lightsalmon;
+}
+h2{
+	color: green;
+	color: red;
+	color: blueviolet;
+}
+.heading2{
+	font-size: 45px;
+    color: green;
+}
+.border_black{
+	border: 2px solid black;
+}
+#heading2{
+	color: blue;
+}
